@@ -295,6 +295,6 @@ Jupyter Notebook 的数据爬取还可以用于以下情形：
 
 虽然 Jupyter Notebook 可用于网络爬虫，并提供了可视化与交互式调试等便利功能，但它在大规模爬虫或自动化任务方面并不是最优解。
 
-Bright Data 的 [Web Scrapers](https://www.bright.cn/products/web-scraper) 可以帮你简化和优化数据采集流程。它为 100 多个网站提供专用端点，支持批量请求处理，自动 IP 轮换以及 [CAPTCHA 识别](https://github.com/bright-cn/Captcha-solver)等功能。
+Bright Data 的 [网络抓取](https://www.bright.cn/products/web-scraper) 可以帮你简化和优化数据采集流程。它为 100 多个网站提供专用端点，支持批量请求处理，自动 IP 轮换以及 [CAPTCHA 识别](https://github.com/bright-cn/Captcha-solver)等功能。
 
 立即注册一个免费的 Bright Data 账号，试用我们的爬虫解决方案和代理服务吧！
