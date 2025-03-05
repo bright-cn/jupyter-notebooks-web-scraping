@@ -1,6 +1,6 @@
 # 使用 Jupyter Notebook 进行网络爬虫
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
 
 本指南将向你演示如何使用 Jupyter Notebook 来进行网络爬虫，包括交互式编程、数据分析和可视化等内容。
 
