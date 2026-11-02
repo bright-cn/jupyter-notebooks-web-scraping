@@ -105,7 +105,7 @@ cd scraper
 jupyter notebook
 ```
 
-现在，你可以通过 `locahost:8888` 访问 Jupyter Notebook App。
+现在，你可以通过 `localhost:8888` 访问 Jupyter Notebook App。
 
 点击“New > Python 3”选项创建新文件：
 
@@ -127,7 +127,7 @@ scraper/
 
 让我们从 [worldometer](https://www.worldometers.info/) 网站抓取数据，并使用与[美国每年 CO2 排放量](https://www.worldometers.info/co2-emissions/us-co2-emissions/)相关的目标页面，其中提供了以下表格数据：
 
-![美国每年 C02 排放量的表格数据](https://github.com/bright-cn/jupyter-notebooks-web-scraping/blob/main/Images/image-82.png)
+![美国每年 CO2 排放量的表格数据](https://github.com/bright-cn/jupyter-notebooks-web-scraping/blob/main/Images/image-82.png)
 
 ### 第 3 步：检索数据
 
@@ -211,7 +211,7 @@ df.head()
 
 ### 第 5 步：可视化数据
 
-使用 `seaborn` 创建折线图，展示 C02 排放量随年份变化的趋势：
+使用 `seaborn` 创建折线图，展示 CO2 排放量随年份变化的趋势：
 
 ```python
 import seaborn as sns
